@@ -6,7 +6,7 @@ Le fichier 2048.c contient une implémentation en C du jeu **2048** (voir sur [Wi
 Le but de cette activité est de vous familiariser avec les opérations sur **GitHub**.
 
 ## Travail demandé
-Modifier le code source afin pour :
+Modifier le code source pour :
 1. Accepter les touches du clavier *H* *J* *K* *L* pour avoir respectivement le même comportement que les touches de direction  **Droite** **Haut** **Bas** **Gauche**.
 1. Quitter le programme lorsque l'utilisateur appuie sur la touche *X*.
 
