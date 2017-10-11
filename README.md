@@ -3,7 +3,7 @@ ________________________________________
 
 Le fichier 2048.c contient une implémentation en C du jeu **2048** (voir sur [Wikipedia](https://fr.wikipedia.org/wiki/2048_(jeu_vid%C3%A9o))) pris dans ce [Repository GitHub](https://github.com/yboyer/2048.c).
 
-Le but est de cette activité est de vous familiariser avec les opérations sur **GitHub**.
+Le but de cette activité est de vous familiariser avec les opérations sur **GitHub**.
 
 ## Travail demandé
 Modifier le code source afin pour :
